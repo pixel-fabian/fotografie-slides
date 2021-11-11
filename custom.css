@@ -1,0 +1,16 @@
+.reveal table td, .reveal table tbody tr:last-child td {
+  border: 1px solid #626060;
+}
+
+img {
+  box-sizing: border-box;
+}
+
+.reveal section img {
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
